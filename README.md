@@ -1,6 +1,6 @@
 FS14_hallway_talk
 =================
-
+![alt tag](https://dl.dropbox.com/s/kz0uiul5fmv7oyo/Screenshot%202014-11-04%2013.39.38.png?dl=0)
 
 In learning to program I frequently hear engineers who have been working for ten or more years utter the words, "Man! You guys have it so easy these days! Do you have any idea how long that would have taken ten years ago?" Finally I came to a point where I thought in response, "No, I have no clue, but it would be cool to find out."
 
