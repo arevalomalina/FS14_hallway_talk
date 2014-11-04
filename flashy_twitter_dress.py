@@ -22,7 +22,7 @@ streamer = MyStreamer(
     'Y2kCBuTrUAeeLMFnKxrTKqwAbp1h80ZrKpYjF4qYbr8ki')
 
 def check_twitter():
-    streamer.statuses.filter(track='mariemalina')
+    streamer.statuses.filter(track='')
 
 if __name__ == '__main__':
     check_twitter()
